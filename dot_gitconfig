@@ -1,0 +1,7 @@
+[user]
+	name = Nics
+	email = NicsTr@users.noreply.github.com
+[core]
+	editor = hx
+[init]
+	defaultBranch = main
